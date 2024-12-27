@@ -1,0 +1,17 @@
+#imgid {
+    display: block;
+    margin: 0 auto;
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: 'Roboto' , sans-serif ;
+}
+h2,h3{
+    background-color:burlywood; 
+    background-blend-mode: color-dodge; 
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+}
